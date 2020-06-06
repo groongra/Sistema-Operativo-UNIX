@@ -1,4 +1,4 @@
-# Sistemas-Operativos-UC3M
+# Sistemas-Operativos-UNIX
 ES:
 Autores: Lucas González de Alba, Víctor Alonso López, Gonzalo Fernández. 
 
